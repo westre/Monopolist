@@ -1,0 +1,15 @@
+﻿
+public enum StreetType {
+    NORMAL,
+    GO,
+    COMMUNITY_CHEST,
+    INCOME_TAX,
+    STATION,
+    CHANCE,
+    JUST_VISITING,
+    ELECTRIC_COMPANY,
+    FREE_PARKING,
+    WATER_WORKS,
+    GO_TO_JAIL,
+    SUPER_TAX
+}
