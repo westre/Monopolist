@@ -1,6 +1,6 @@
 ﻿
 public enum StreetType {
-    NORMAL,
+    GENERIC,
     GO,
     COMMUNITY_CHEST,
     INCOME_TAX,

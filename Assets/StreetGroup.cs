@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class StreetGroup : MonoBehaviour {
+public class StreetGroup {
 
     public string groupName;
     public string color;
